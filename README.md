@@ -10,8 +10,8 @@ This repository hosts the heavy files of [anibal-amiot.com](https://anibal-amiot
 ## Contenu / Contents
 
 ```
-pdf/    la-livree-d-hermes-anibal-amiot-<code>.pdf     un PDF par langue / one PDF per language
-pages/  <code>/<page>.webp                             les pages de la visionneuse / viewer pages
+la-livree-d-hermes-anibal-amiot-<code>.pdf     un PDF par langue, à la racine / one PDF per language, at the root
+pages/<code>/<page>.webp                       une image par page du PDF, pour la visionneuse / one image per PDF page, for the viewer
 ```
 
 | Code | Langue | Language |
@@ -28,12 +28,14 @@ pages/  <code>/<page>.webp                             les pages de la visionneu
 | it | italien | Italian |
 | ja | japonais | Japanese |
 
-Édition de 115 pages. / 115-page edition.
+111 pages plus la couverture (le fichier PDF compte aussi les préliminaires et les pages de fin ; une image WebP de 1920 × 1080 par page du fichier). / 111 pages plus the cover (the PDF file also holds the preliminaries and end pages; one 1920 × 1080 WebP image per page of the file).
 
 ## Où lire le livre / Where to read it
 
 - Lecteur en ligne et téléchargements : <https://anibal-amiot.com/>
-- Adresse directe d'un PDF / Direct PDF address: `https://anibaledel.github.io/livre-medias/pdf/la-livree-d-hermes-anibal-amiot-<code>.pdf`
+- Adresse directe d'un PDF / Direct PDF address: `https://anibaledel.github.io/livre-medias/la-livree-d-hermes-anibal-amiot-<code>.pdf`
+- Adresse d'une page / Page address: `https://anibaledel.github.io/livre-medias/pages/<code>/<page>.webp` (`<page>` : `000A`, `000B`, `001` … `110`, `111A`, `111B`, `111C`)
+- Déjà en ligne / Already online: `fr`, `en`. Les autres langues s'ajoutent au fur et à mesure / the other languages are added as they are ready.
 
 ## Traductions / Translations
 
